@@ -1,0 +1,42 @@
+{"products":[
+{
+"id": 1,
+"name": "Lapiz",
+"description": "Un lapiz no necesita descripción creo, pero para asegurarnos lo defino: Un lapiz es un trozo alargado de madera que contiene una lamina de grafito, Se usa para escribir/dibujar",
+"price": "5€",
+"manufacturer": "Niños pobres",
+"qrcode": "https://www.researchgate.net/profile/Mylene_Farias/publication/283744376/figure/fig3/AS:667865279631367@1536242899649/Example-of-a-regular-QR-Code-3-and-b-Colored-QR-CQR-Code-4.ppm"
+},
+{
+"id": 2,
+"name": "Libreta",
+"description": "Donde escribes y dibujas con el lápiz",
+"price": "10€",
+"manufacturer": "Niños aún más pobres",
+"qrcode": "https://www.researchgate.net/profile/Mylene_Farias/publication/283744376/figure/fig3/AS:667865279631367@1536242899649/Example-of-a-regular-QR-Code-3-and-b-Colored-QR-CQR-Code-4.ppm"
+},
+{
+"id": 3,
+"name": "Sacapuntas",
+"description": "Lo que usas para sacarle punta al lapiz",
+"price": "15€",
+"manufacturer": "Niños?",
+"qrcode": "https://www.researchgate.net/profile/Mylene_Farias/publication/283744376/figure/fig3/AS:667865279631367@1536242899649/Example-of-a-regular-QR-Code-3-and-b-Colored-QR-CQR-Code-4.ppm"
+},
+{
+"id": 4,
+"name": "Coche de Lego",
+"description": "Piezas y un manual para crear un coche de Lego.",
+"price": "50€",
+"manufacturer": "No se sabe aún",
+"qrcode": "https://www.researchgate.net/profile/Mylene_Farias/publication/283744376/figure/fig3/AS:667865279631367@1536242899649/Example-of-a-regular-QR-Code-3-and-b-Colored-QR-CQR-Code-4.ppm"
+},
+{
+"id": 5,
+"name": "Memoria USB 32 GB",
+"description": "Un dispositivo hardware utilizado para almacenar información.",
+"price": "10€",
+"manufacturer": "Gente",
+"qrcode": "https://www.researchgate.net/profile/Mylene_Farias/publication/283744376/figure/fig3/AS:667865279631367@1536242899649/Example-of-a-regular-QR-Code-3-and-b-Colored-QR-CQR-Code-4.ppm"
+}
+]}
