@@ -5,7 +5,7 @@
 "description": "Un lapiz no necesita descripción creo, pero para asegurarnos lo defino: Un lapiz es un trozo alargado de madera que contiene una lamina de grafito, Se usa para escribir/dibujar",
 "price": "5€",
 "manufacturer": "Niños pobres",
-"image": "https://www.juansola.com/3646-large_default/lapiz-staedtler-noris-club-triplus-119-grueso.jpg"
+"image": "https://www.juansola.com/3646-large_default/lapiz-staedtler-noris-club-triplus-119-grueso.jpg",
 "qrcode": "https://www.researchgate.net/profile/Mylene_Farias/publication/283744376/figure/fig3/AS:667865279631367@1536242899649/Example-of-a-regular-QR-Code-3-and-b-Colored-QR-CQR-Code-4.ppm"
 },
 {
@@ -14,6 +14,7 @@
 "description": "Donde escribes y dibujas con el lápiz",
 "price": "10€",
 "manufacturer": "Niños aún más pobres",
+"image": "https://www.ecamisetas.com/articulos/gr/libretas-M3388.jpg",
 "qrcode": "https://www.researchgate.net/profile/Mylene_Farias/publication/283744376/figure/fig3/AS:667865279631367@1536242899649/Example-of-a-regular-QR-Code-3-and-b-Colored-QR-CQR-Code-4.ppm"
 },
 {
@@ -22,6 +23,7 @@
 "description": "Lo que usas para sacarle punta al lapiz",
 "price": "15€",
 "manufacturer": "Niños?",
+"image": "https://www.selfpaper.com/imagenes/sacapu51010g.jpg",
 "qrcode": "https://www.researchgate.net/profile/Mylene_Farias/publication/283744376/figure/fig3/AS:667865279631367@1536242899649/Example-of-a-regular-QR-Code-3-and-b-Colored-QR-CQR-Code-4.ppm"
 },
 {
@@ -30,6 +32,7 @@
 "description": "Piezas y un manual para crear un coche de Lego.",
 "price": "50€",
 "manufacturer": "No se sabe aún",
+"image": "https://media.4rgos.it/s/Argos/8874850_R_SET?$Main768$&w=620&h=620",
 "qrcode": "https://www.researchgate.net/profile/Mylene_Farias/publication/283744376/figure/fig3/AS:667865279631367@1536242899649/Example-of-a-regular-QR-Code-3-and-b-Colored-QR-CQR-Code-4.ppm"
 },
 {
@@ -38,6 +41,7 @@
 "description": "Un dispositivo hardware utilizado para almacenar información.",
 "price": "10€",
 "manufacturer": "Gente",
+"image": "https://images-na.ssl-images-amazon.com/images/I/71D%2BCsFAvOL._SX425_.jpg",
 "qrcode": "https://www.researchgate.net/profile/Mylene_Farias/publication/283744376/figure/fig3/AS:667865279631367@1536242899649/Example-of-a-regular-QR-Code-3-and-b-Colored-QR-CQR-Code-4.ppm"
 }
 ]}
